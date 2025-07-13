@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SATTI VEER REDDY</h1>
+<h1 align="center">Hi 👋, I'm VEER REDDY SATTI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [VENDOR AVAILABILITY CHECK](https://vendor-availability-check.vercel.app/)
