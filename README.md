@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
-- 💬 Ask me about **REACT**
+- 💬 Ask me about **REACT,HTML,CSS,JAVASCRIPT,PUBLIC SPEAKING**
 
 - 📫 How to reach me **veerreddysatti4@gmail.com**
 
