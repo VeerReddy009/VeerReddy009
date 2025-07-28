@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VEER REDDY SATTI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [VENDOR AVAILABILITY CHECK](https://vendor-availability-check.vercel.app/)
+- 🔭 I’m currently working on [VENDOR AVAILABILITY CHECK]
 
 - 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
